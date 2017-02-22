@@ -13,6 +13,7 @@
 		5C3B66011E5DCB2900B39201 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C3B66001E5DCB2900B39201 /* Assets.xcassets */; };
 		5C3B66041E5DCB2900B39201 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C3B66021E5DCB2900B39201 /* LaunchScreen.storyboard */; };
 		5C3B660F1E5DCB2A00B39201 /* POPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B660E1E5DCB2A00B39201 /* POPTests.swift */; };
+		5C3B661A1E5DCBE300B39201 /* FoodImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B66191E5DCBE300B39201 /* FoodImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		5C3B660A1E5DCB2A00B39201 /* POPTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = POPTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C3B660E1E5DCB2A00B39201 /* POPTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POPTests.swift; sourceTree = "<group>"; };
 		5C3B66101E5DCB2A00B39201 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C3B66191E5DCBE300B39201 /* FoodImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoodImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				5C3B66001E5DCB2900B39201 /* Assets.xcassets */,
 				5C3B66021E5DCB2900B39201 /* LaunchScreen.storyboard */,
 				5C3B66051E5DCB2900B39201 /* Info.plist */,
+				5C3B66191E5DCBE300B39201 /* FoodImageView.swift */,
 			);
 			path = POP;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C3B661A1E5DCBE300B39201 /* FoodImageView.swift in Sources */,
 				5C3B65FC1E5DCB2900B39201 /* ViewController.swift in Sources */,
 				5C3B65FA1E5DCB2900B39201 /* AppDelegate.swift in Sources */,
 			);
