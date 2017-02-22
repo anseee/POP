@@ -15,6 +15,7 @@
 		5C3B660F1E5DCB2A00B39201 /* POPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B660E1E5DCB2A00B39201 /* POPTests.swift */; };
 		5C3B661A1E5DCBE300B39201 /* FoodImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B66191E5DCBE300B39201 /* FoodImageView.swift */; };
 		5C3B661C1E5DCCDC00B39201 /* ShakeableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B661B1E5DCCDC00B39201 /* ShakeableButton.swift */; };
+		5C3B661E1E5DCD9400B39201 /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3B661D1E5DCD9400B39201 /* UIViewExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		5C3B66101E5DCB2A00B39201 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C3B66191E5DCBE300B39201 /* FoodImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoodImageView.swift; sourceTree = "<group>"; };
 		5C3B661B1E5DCCDC00B39201 /* ShakeableButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShakeableButton.swift; sourceTree = "<group>"; };
+		5C3B661D1E5DCD9400B39201 /* UIViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				5C3B66051E5DCB2900B39201 /* Info.plist */,
 				5C3B66191E5DCBE300B39201 /* FoodImageView.swift */,
 				5C3B661B1E5DCCDC00B39201 /* ShakeableButton.swift */,
+				5C3B661D1E5DCD9400B39201 /* UIViewExtension.swift */,
 			);
 			path = POP;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C3B661E1E5DCD9400B39201 /* UIViewExtension.swift in Sources */,
 				5C3B661C1E5DCCDC00B39201 /* ShakeableButton.swift in Sources */,
 				5C3B661A1E5DCBE300B39201 /* FoodImageView.swift in Sources */,
 				5C3B65FC1E5DCB2900B39201 /* ViewController.swift in Sources */,
